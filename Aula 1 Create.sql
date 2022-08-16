@@ -15,4 +15,4 @@ CREATE TABLE aluno(
 
 );
 
-select * from aluno;
+SELECT * FROM aluno;
